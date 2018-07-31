@@ -1,0 +1,44 @@
+{
+    "name": "willhoffmann/domuserp-php",
+    "description": "PHP Library for Domus ERP API",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["domus erp", "api", "client"],
+    "authors": [
+      {
+        "name": "William Hoffmann",
+        "email": "williamhoffmann@outlook.com",
+        "role": "Developer"
+      }
+    ],
+    "homepage": "https://domuserp.com.br/",
+    "minimum-stability": "dev",
+    "require": {
+      "php": "^5.6 || ^7.0",
+      "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "DomusErp\\Sdk\\": "src/"
+      }
+    },
+    "autoload-dev":{
+      "psr-4": {
+        "DomusErp\\SdkTest\\": "tests/unit"
+      }
+    },
+    "scripts": {
+      "cs-check": "phpcs",
+      "cs-fix": "phpcbf",
+      "test": "phpunit"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.0@dev",
+        "phpunit/phpunit": "~4.0 || ~5.0",
+        "scrutinizer/ocular": "dev-master",
+        "squizlabs/php_codesniffer": "^3.0@dev"
+    },
+    "config": {
+      "sort-packages": true
+    }
+}

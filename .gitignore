@@ -1,0 +1,20 @@
+# Well known noises
+*~
+._*
+.~lock.*
+.DS_Store
+
+# Editors, IDEs
+nbproject
+.buildpath
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Composer related
+vendor/
+composer.lock
+
+# Build automation related
+build/
+index.php
