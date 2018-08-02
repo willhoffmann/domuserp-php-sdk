@@ -1,6 +1,6 @@
 <?php
 
-namespace DomusErp\SdkTest;
+namespace DomusErp\SdkTest\Integration;
 
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
@@ -12,7 +12,6 @@ class FakeHandler extends TestCase
     public static function mockResponses(array $keys = [])
     {
         $responses = [];
-
         foreach ($keys as $key) {
             $responses[] = new Psr7Response(200, [], file_get_contents(__DIR__ . '/responses/' . $key . '.json'));
         }
