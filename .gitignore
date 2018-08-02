@@ -15,6 +15,9 @@ nbproject
 vendor/
 composer.lock
 
+# Logs
+ERR.log
+
 # Build automation related
 build/
 index.php
