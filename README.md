@@ -1,6 +1,6 @@
 # Domus ERP for PHP
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/willhoffmann/domuserp-php/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/willhoffmann/domuserp-php.svg?branch=master)](https://travis-ci.org/willhoffmann/domuserp-php)
 [![Downloads](https://img.shields.io/packagist/dt/willhoffmann/domuserp-php.svg?style=flat-square)](https://packagist.org/packages/willhoffmann/domuserp-php)
 
