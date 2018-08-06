@@ -1,0 +1,11 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "cdProdutoIR": 1,
+      "dsProdutoIR": "TRIBUTADO"
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

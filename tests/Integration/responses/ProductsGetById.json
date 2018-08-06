@@ -1,0 +1,133 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "informacaoComplementarNotaFiscal": "",
+      "nmResponsavel": "",
+      "dsGramatura": "",
+      "qtSeparacao": 20,
+      "codigoBarras": [
+        {
+          "dsEmbalagem": "",
+          "dsUnidadeVenda": "",
+          "tpCodigoBarra": "P",
+          "principal": true,
+          "fatorConversao": 1,
+          "codigoBarraCaixa": "",
+          "cdUnidadeVenda": "",
+          "codigoBarra": "0",
+          "nrCodigobarra": 1,
+          "cdEmbalagem": -2147483648
+        }
+      ],
+      "cd_statusweb": 1,
+      "cdProduto": 639,
+      "cdPastaProduto": 1,
+      "marca": {
+        "cdMarca": 139,
+        "dsMarca": "GALLO",
+        "modelos": []
+      },
+      "qtDiasvalidadecritica": 1,
+      "pesoDrenado": 0.54,
+      "qtMinima": 20,
+      "cdCategoria": 2,
+      "dadosFiscaisContabeis": {
+        "grupoFiscalICMS": 97,
+        "cdGrupoContabil": 0,
+        "cdGrupoInventario": 5,
+        "ncm": "15091000",
+        "nbm": "15091000-1",
+        "fci": "",
+        "situacaoTributaria": "F",
+        "grupoFiscalISS": 3,
+        "grupoFiscalIPI": 1,
+        "cdContaContabil": 150,
+        "grupoFiscalIR": 2,
+        "grupoFiscalPISCOFINS": 15,
+        "cdOrigemProduto": 3
+      },
+      "local": [
+        {
+          "cdLocal": 35,
+          "principal": true
+        }
+      ],
+      "campoAdicionais": [
+        {
+          "BO_INTEGRA_PROD_WMS": "S"
+        },
+        {
+          "CENQ": ""
+        },
+        {
+          "PESO_EMBALAGEM": ""
+        },
+        {
+          "BO_CONTROLA_LACRE": ""
+        },
+        {
+          "VL_CUSTOUN_MO": ""
+        },
+        {
+          "VL_CUSTOUN_EE": ""
+        },
+        {
+          "VL_CUSTOUN_ALUGUEL": ""
+        },
+        {
+          "CD_NCM": "15091000"
+        }
+      ],
+      "profundidade": 123456,
+      "cdUnidadeEstoque": "UN",
+      "largura": 123456,
+      "especificacaoTecnica": "Descrição Resumida",
+      "complemento": "",
+      "ds_detalhada": "Descrição Detalhada",
+      "pesoBruto": 0.54,
+      "qtProdutoEmbalagem": 1,
+      "altura": 123456,
+      "qt_dias_garantia_fabricante": 5,
+      "linhaProduto": 1,
+      "boPermitesubst": false,
+      "fornecedores": [
+        {
+          "qtProduto": 1,
+          "prazoEntrega": 0,
+          "principal": true,
+          "cdFornecedor": 3646,
+          "cdUnidadeCompra": "CX",
+          "cdProdutoNoFornecedor": ""
+        },
+        {
+          "qtProduto": 1,
+          "prazoEntrega": 0,
+          "principal": false,
+          "cdFornecedor": 3348,
+          "cdUnidadeCompra": "CX",
+          "cdProdutoNoFornecedor": ""
+        }
+      ],
+      "qtDiasvalidade": 1,
+      "cdUnidadeVenda": "CX",
+      "fotos": [],
+      "informacaoComplementar": "",
+      "dsResumida": "DESCRIÇÃO PRODUTO",
+      "dsProduto": "DESCRIÇÃO PRODUTO",
+      "cdGrupo": 1,
+      "qtMultiploVenda": 4,
+      "pesoLiquido": 0.54,
+      "idProduto": 633,
+      "cdsubcategoria": 13,
+      "qtMaxima": 20,
+      "tpStatus": "S",
+      "tpProduto": "R",
+      "cdModelo": 0,
+      "cdEmbalagem": 1,
+      "qtVolume": 1
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

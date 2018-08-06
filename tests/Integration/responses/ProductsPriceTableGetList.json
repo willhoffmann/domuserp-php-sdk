@@ -1,0 +1,39 @@
+{
+  "pageSize": 100,
+  "values": [
+    {
+      "gramatura": "",
+      "orderAdditionalInformation": "",
+      "description": "FILTRO DE PAPEL MELITTA 103 30 UND",
+      "defaultValue": 1.8598,
+      "un": "CX",
+      "id": 637,
+      "availableStock": 3522,
+      "barCode": "0",
+      "code": 160,
+      "brand": {
+        "description": "MELLITA",
+        "id": 91,
+        "code": 91
+      }
+    },
+    {
+      "gramatura": "",
+      "orderAdditionalInformation": "",
+      "description": "FILTRO DE PAPEL BRIGITTA 103 30 UND",
+      "defaultValue": 1.5488,
+      "un": "CX",
+      "id": 663,
+      "availableStock": 1350,
+      "barCode": "0",
+      "code": 167,
+      "brand": {
+        "description": "BRIGITTA",
+        "id": 92,
+        "code": 92
+      }
+    }
+  ],
+  "start": 0,
+  "count": 2
+}

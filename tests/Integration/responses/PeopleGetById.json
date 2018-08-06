@@ -1,0 +1,94 @@
+{
+  "gender": "O",
+  "rgEmission": "",
+  "bo_colaborador": "N",
+  "bo_parceiro": "N",
+  "personISS": 1,
+  "personIPI": 4,
+  "personType": "J",
+  "personINSS": 3,
+  "personICMS": 6,
+  "rgNumber": "",
+  "personIR": 1,
+  "fantasy": "TESTE CADASTRO POSTMAN",
+  "bo_representante": "",
+  "bo_cliente": "S",
+  "customerGroup": {
+    "description": "CLIENTES PARANÁ",
+    "id": 1,
+    "code": 1
+  },
+  "office": "",
+  "spouse": {
+    "rgEmission": "",
+    "cpf": "",
+    "rgNumber": "",
+    "marital": "O",
+    "communion": "N",
+    "name": "",
+    "born": "",
+    "rgDispatcher": ""
+  },
+  "addresses": [
+    {
+      "charge": true,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": true,
+      "street": "RUA ANTONIO LUZ DIAS",
+      "complement": "",
+      "district": "POPULAR NOVA",
+      "adressecommerce": "RUA ANTONIO LUZ DIAS, 0 - CAMBARÁ, PARANÁ",
+      "billing": true,
+      "id": 1,
+      "zipCode": "86390000",
+      "stateInscription": "",
+      "commercialSector": {
+        "description": "VENDA DIRETA",
+        "id": "16",
+        "code": "16"
+      },
+      "number": "0",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": true,
+      "mail": true,
+      "city": {
+        "description": "CAMBARÁ",
+        "id": 4103602
+      },
+      "poBox": "142"
+    }
+  ],
+  "contacts": [
+    {
+      "ddi": 55,
+      "ddd": 43,
+      "extension": "",
+      "id": 1,
+      "contactType": "C",
+      "main": true,
+      "phone": 35323673
+    }
+  ],
+  "id": 16638,
+  "confirmed": false,
+  "personPISCOFINS": 3,
+  "email": "email@db1.com.br",
+  "references": [],
+  "foundation": "1992-02-01",
+  "name": "TESTE CADASTRO POSTMAN",
+  "code": 16638,
+  "rgDispatcher": "",
+  "document": "82411382000100",
+  "creation": "2011-10-03",
+  "codeOffice": -2147483648,
+  "bo_fornecedor": "N",
+  "emailNFE": "email@db1.com.br",
+  "partners": []
+}

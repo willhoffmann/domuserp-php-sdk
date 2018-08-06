@@ -1,0 +1,27 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "description": "10 DIAS",
+      "id": 199
+    },
+    {
+      "description": "29 DIAS",
+      "id": 205
+    },
+    {
+      "description": "31 DIAS",
+      "id": 207
+    },
+    {
+      "description": "2 VEZES",
+      "id": 136
+    },
+    {
+      "description": "3 VEZES",
+      "id": 137
+    }
+  ],
+  "start": 0,
+  "count": 5
+}

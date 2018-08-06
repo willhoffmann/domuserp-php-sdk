@@ -1,0 +1,47 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "dsEmabalagem": "BOBINA",
+      "cdEmbalagem": 9
+    },
+    {
+      "dsEmabalagem": "NÃO DEFINIDA",
+      "cdEmbalagem": 0
+    },
+    {
+      "dsEmabalagem": "CAIXA",
+      "cdEmbalagem": 1
+    },
+    {
+      "dsEmabalagem": "GRANEL",
+      "cdEmbalagem": 2
+    },
+    {
+      "dsEmabalagem": "ESTOJO",
+      "cdEmbalagem": 3
+    },
+    {
+      "dsEmabalagem": "BLISTER",
+      "cdEmbalagem": 4
+    },
+    {
+      "dsEmabalagem": "POTE",
+      "cdEmbalagem": 5
+    },
+    {
+      "dsEmabalagem": "SACO",
+      "cdEmbalagem": 6
+    },
+    {
+      "dsEmabalagem": "CARTELA",
+      "cdEmbalagem": 7
+    },
+    {
+      "dsEmabalagem": "DISPLAY",
+      "cdEmbalagem": 10
+    }
+  ],
+  "start": 0,
+  "count": 11
+}

@@ -1,0 +1,39 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "cidade": "MARINGÁ",
+      "dsFilial": "FILIAL 1",
+      "idFilial": 1,
+      "empresa": {
+        "cdEmpresa": 1,
+        "logoUrl": "/empresa/1/logo",
+        "dsEmpresa": "TESTE",
+        "idEmpresa": 1
+      },
+      "cdFilial": 1,
+      "uf": "PR",
+      "token": "EMPRESA01FILIAL01",
+      "bo_filial_web": "S",
+      "cnpj": "11122233366622"
+    },
+    {
+      "cidade": "MARINGÁ",
+      "dsFilial": "FILIAL 2",
+      "idFilial": 21,
+      "empresa": {
+        "cdEmpresa": 1,
+        "logoUrl": "/empresa/1/logo",
+        "dsEmpresa": "TESTE",
+        "idEmpresa": 1
+      },
+      "cdFilial": 2,
+      "uf": "PR",
+      "token": "EMPRESA01FILIAL02",
+      "bo_filial_web": "S",
+      "cnpj": "11122233366622"
+    }
+  ],
+  "start": 0,
+  "count": 2
+}

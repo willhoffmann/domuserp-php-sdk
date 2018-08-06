@@ -1,0 +1,77 @@
+{
+  "pageSize": 0,
+  "start": 0,
+  "count": 30,
+  "listasetorcomercial": [
+    {
+      "ds_regiaocomercial": "CERTANO BEBIDAS",
+      "razao_social": "RODRIGO CASTRO",
+      "cd_regiaocomercial": 20,
+      "cd_setorsomercial": "35",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 11239,
+      "ds_setorcomercial": "FABIANE SP"
+    },
+    {
+      "ds_regiaocomercial": "PR NORTE/SP SUL",
+      "razao_social": "PAULO VALERIO DA SILVA",
+      "cd_regiaocomercial": 8,
+      "cd_setorsomercial": "08",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 157,
+      "ds_setorcomercial": "PR NORTE/SP SUL"
+    },
+    {
+      "ds_regiaocomercial": "SP AVARE",
+      "razao_social": "WALTER SILVEIRA 51095521853",
+      "cd_regiaocomercial": 27,
+      "cd_setorsomercial": "39",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 12135,
+      "ds_setorcomercial": "SP AVARE"
+    },
+    {
+      "ds_regiaocomercial": "SP CORRETOR",
+      "razao_social": "VILAS BOAS & SANTOS LTDA",
+      "cd_regiaocomercial": 25,
+      "cd_setorsomercial": "32",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 4538,
+      "ds_setorcomercial": "SP CORRETOR"
+    },
+    {
+      "ds_regiaocomercial": "ITAPEVA",
+      "razao_social": "REGINALDO DA SILVA VAZ & CIA LTDA",
+      "cd_regiaocomercial": 29,
+      "cd_setorsomercial": "41",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 9985,
+      "ds_setorcomercial": "SP ITAPEVA"
+    },
+    {
+      "ds_regiaocomercial": "SP SUL 1",
+      "razao_social": "RODRIGUES E NAHIRNHAK REPRES LTDA",
+      "cd_regiaocomercial": 9,
+      "cd_setorsomercial": "09",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 450,
+      "ds_setorcomercial": "SP SUL"
+    },
+    {
+      "ds_regiaocomercial": "SP SUL 2",
+      "razao_social": "ROSSINI & LOZANO REPRES LTDA",
+      "cd_regiaocomercial": 10,
+      "cd_setorsomercial": "10",
+      "inf_compl": "",
+      "bo_setor_empresa": "N",
+      "cd_colaborador": 449,
+      "ds_setorcomercial": "SP SUL 2"
+    }
+  ]
+}

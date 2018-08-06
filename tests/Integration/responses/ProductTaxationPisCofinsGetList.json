@@ -1,0 +1,11 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "dsProdutoPISCOFINS": "ISENTO",
+      "cdProdutoPISCOFINS": 1
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

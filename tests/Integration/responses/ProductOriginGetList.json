@@ -1,0 +1,39 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "dsOrigemProduto": "NACIONAL",
+      "cdOrigemProduto": 0
+    },
+    {
+      "dsOrigemProduto": "ESTRANGEIRA - IMPORTAÇÃO DIRETA",
+      "cdOrigemProduto": 1
+    },
+    {
+      "dsOrigemProduto": "ESTRANGEIRA - ADQUIRIDA NO MERCADO INTERNO",
+      "cdOrigemProduto": 2
+    },
+    {
+      "dsOrigemProduto": "NACIONAL, MERCADORIA OU BEM COM CONTEÚDO DE IMPORTAÇÃO SUPERIOR A 40%",
+      "cdOrigemProduto": 3
+    },
+    {
+      "dsOrigemProduto": "NACIONAL, CUJA PRODUÇÃO TENHA SIDO FEITA EM CONFORMIDADE COM OS PROCESSOS PRODUTIVOS BÁSICOS DE QUE TRATAM O DECRETO-LEI Nº 288/67, E AS LEIS NºS 8.248/91, 8.387/91, 10.176/01 E 11.484/07",
+      "cdOrigemProduto": 4
+    },
+    {
+      "dsOrigemProduto": "NACIONAL, MERCADORIA OU BEM COM CONTEÚDO DE IMPORTAÇÃO INFERIOR OU IGUAL A 40% (QUARENTA POR CENTO)",
+      "cdOrigemProduto": 5
+    },
+    {
+      "dsOrigemProduto": "ESTRANGEIRA - IMPORTAÇÃO DIRETA, SEM SIMILAR NACIONAL, CONSTANTE EM LISTA DE RESOLUÇÃO CAMEX",
+      "cdOrigemProduto": 6
+    },
+    {
+      "dsOrigemProduto": "ESTRANGEIRA - ADQUIRIDA NO MERCADO INTERNO, SEM SIMILAR NACIONAL, CONSTANTE EM LISTA DE RESOLUÇÃO CAMEX",
+      "cdOrigemProduto": 7
+    }
+  ],
+  "start": 0,
+  "count": 8
+}

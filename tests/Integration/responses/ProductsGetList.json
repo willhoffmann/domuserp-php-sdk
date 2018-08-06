@@ -1,0 +1,267 @@
+{
+  "pageSize": 2,
+  "values": [
+    {
+      "informacaoComplementarNotaFiscal": "",
+      "nmResponsavel": "",
+      "dsGramatura": "",
+      "qtSeparacao": 24,
+      "codigoBarras": [
+        {
+          "dsEmbalagem": "",
+          "dsUnidadeVenda": "",
+          "tpCodigoBarra": "P",
+          "principal": true,
+          "fatorConversao": 1,
+          "codigoBarraCaixa": "",
+          "cdUnidadeVenda": "",
+          "codigoBarra": "0",
+          "nrCodigobarra": 1,
+          "cdEmbalagem": -2147483648
+        },
+        {
+          "dsEmbalagem": "",
+          "dsUnidadeVenda": "",
+          "tpCodigoBarra": "E",
+          "principal": true,
+          "fatorConversao": 1,
+          "codigoBarraCaixa": "0",
+          "cdUnidadeVenda": "",
+          "codigoBarra": "",
+          "nrCodigobarra": 2,
+          "cdEmbalagem": -2147483648
+        }
+      ],
+      "cd_statusweb": 0,
+      "cdProduto": 202,
+      "cdPastaProduto": 1,
+      "marca": {
+        "cdMarca": 1,
+        "dsMarca": "CERTANO",
+        "modelos": []
+      },
+      "qtDiasvalidadecritica": 1,
+      "pesoDrenado": 0,
+      "qtMinima": 720,
+      "cdCategoria": 1,
+      "dadosFiscaisContabeis": {
+        "grupoFiscalICMS": 136,
+        "cdGrupoContabil": 2,
+        "cdGrupoInventario": 5,
+        "ncm": "18069000",
+        "nbm": "18069000-3",
+        "fci": "",
+        "situacaoTributaria": "T",
+        "grupoFiscalISS": 3,
+        "grupoFiscalIPI": 1,
+        "cdContaContabil": 150,
+        "grupoFiscalIR": 2,
+        "grupoFiscalPISCOFINS": 4,
+        "cdOrigemProduto": 0
+      },
+      "local": [
+        {
+          "cdLocal": 3,
+          "principal": true
+        }
+      ],
+      "campoAdicionais": [
+        {
+          "BO_INTEGRA_PROD_WMS": ""
+        },
+        {
+          "CENQ": ""
+        },
+        {
+          "PESO_EMBALAGEM": ""
+        },
+        {
+          "BO_CONTROLA_LACRE": ""
+        },
+        {
+          "VL_CUSTOUN_MO": ""
+        },
+        {
+          "VL_CUSTOUN_EE": ""
+        },
+        {
+          "VL_CUSTOUN_ALUGUEL": ""
+        },
+        {
+          "CD_NCM": "18069000"
+        }
+      ],
+      "profundidade": 0,
+      "cdUnidadeEstoque": "UN",
+      "largura": 0,
+      "especificacaoTecnica": "",
+      "complemento": "",
+      "pesoBruto": 0.456,
+      "qtProdutoEmbalagem": 1,
+      "altura": 0,
+      "qtdiasgarantiafabrica": 0,
+      "linhaProduto": 13,
+      "boPermitesubst": false,
+      "fornecedores": [
+        {
+          "qtProduto": 1,
+          "prazoEntrega": 0,
+          "principal": true,
+          "cdFornecedor": 904,
+          "cdUnidadeCompra": "UN",
+          "cdProdutoNoFornecedor": ""
+        }
+      ],
+      "qtDiasvalidade": 1,
+      "cdUnidadeVenda": "CX",
+      "fotos": [],
+      "informacaoComplementar": "",
+      "dsResumida": "ACHOCOLATADO CERTANO POTE 400G",
+      "dsProduto": "ACHOCOLATADO CERTANO POTE 400G",
+      "cdGrupo": 2,
+      "qtMultiploVenda": 24,
+      "pesoLiquido": 0.4,
+      "idProduto": 41,
+      "cdsubcategoria": 3,
+      "qtMaxima": 720,
+      "tpStatus": "A",
+      "tpProduto": "C",
+      "descricaodetalhada": "",
+      "cdModelo": 0,
+      "cdEmbalagem": 1,
+      "qtVolume": 1
+    },
+    {
+      "informacaoComplementarNotaFiscal": "",
+      "nmResponsavel": "",
+      "dsGramatura": "",
+      "qtSeparacao": 24,
+      "codigoBarras": [
+        {
+          "dsEmbalagem": "",
+          "dsUnidadeVenda": "",
+          "tpCodigoBarra": "P",
+          "principal": true,
+          "fatorConversao": 1,
+          "codigoBarraCaixa": "",
+          "cdUnidadeVenda": "",
+          "codigoBarra": "0",
+          "nrCodigobarra": 1,
+          "cdEmbalagem": -2147483648
+        },
+        {
+          "dsEmbalagem": "",
+          "dsUnidadeVenda": "",
+          "tpCodigoBarra": "E",
+          "principal": true,
+          "fatorConversao": 1,
+          "codigoBarraCaixa": "0",
+          "cdUnidadeVenda": "",
+          "codigoBarra": "",
+          "nrCodigobarra": 2,
+          "cdEmbalagem": -2147483648
+        }
+      ],
+      "cd_statusweb": 0,
+      "cdProduto": 204,
+      "cdPastaProduto": 1,
+      "marca": {
+        "cdMarca": 1,
+        "dsMarca": "CERTANO",
+        "modelos": []
+      },
+      "qtDiasvalidadecritica": 1,
+      "pesoDrenado": 0,
+      "qtMinima": 720,
+      "cdCategoria": 1,
+      "dadosFiscaisContabeis": {
+        "grupoFiscalICMS": 84,
+        "cdGrupoContabil": 2,
+        "cdGrupoInventario": 5,
+        "ncm": "18069000",
+        "nbm": "18069000-3",
+        "fci": "",
+        "situacaoTributaria": "T",
+        "grupoFiscalISS": 3,
+        "grupoFiscalIPI": 1,
+        "cdContaContabil": 150,
+        "grupoFiscalIR": 2,
+        "grupoFiscalPISCOFINS": 4,
+        "cdOrigemProduto": 0
+      },
+      "local": [
+        {
+          "cdLocal": 3,
+          "principal": true
+        }
+      ],
+      "campoAdicionais": [
+        {
+          "BO_INTEGRA_PROD_WMS": ""
+        },
+        {
+          "CENQ": ""
+        },
+        {
+          "PESO_EMBALAGEM": ""
+        },
+        {
+          "BO_CONTROLA_LACRE": ""
+        },
+        {
+          "VL_CUSTOUN_MO": ""
+        },
+        {
+          "VL_CUSTOUN_EE": ""
+        },
+        {
+          "VL_CUSTOUN_ALUGUEL": ""
+        },
+        {
+          "CD_NCM": "18069000"
+        }
+      ],
+      "profundidade": 0,
+      "cdUnidadeEstoque": "UN",
+      "largura": 0,
+      "especificacaoTecnica": "",
+      "complemento": "",
+      "pesoBruto": 0.416,
+      "qtProdutoEmbalagem": 1,
+      "altura": 0,
+      "qtdiasgarantiafabrica": 0,
+      "linhaProduto": 1,
+      "boPermitesubst": false,
+      "fornecedores": [
+        {
+          "qtProduto": 1,
+          "prazoEntrega": 0,
+          "principal": true,
+          "cdFornecedor": 904,
+          "cdUnidadeCompra": "UN",
+          "cdProdutoNoFornecedor": ""
+        }
+      ],
+      "qtDiasvalidade": 1,
+      "cdUnidadeVenda": "CX",
+      "fotos": [],
+      "informacaoComplementar": "",
+      "dsResumida": "ACHOCOLATADO FLORAO SACHE 400G",
+      "dsProduto": "ACHOCOLATADO FLORAO SACHE 400G",
+      "cdGrupo": 2,
+      "qtMultiploVenda": 12,
+      "pesoLiquido": 0.4,
+      "idProduto": 56,
+      "cdsubcategoria": 3,
+      "qtMaxima": 720,
+      "tpStatus": "A",
+      "tpProduto": "R",
+      "descricaodetalhada": "",
+      "cdModelo": 0,
+      "cdEmbalagem": 1,
+      "qtVolume": 1
+    }
+  ],
+  "start": 1,
+  "count": 10545
+}

@@ -1,0 +1,11 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "cdProdutoIPI": 1,
+      "dsProdutoIPI": "NÃO TRIBUTA IPI"
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

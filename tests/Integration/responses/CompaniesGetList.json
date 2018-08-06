@@ -1,0 +1,17 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "cdEmpresa": 1,
+      "dsEmpresa": "EMPRESA 1",
+      "idEmpresa": 0
+    },
+    {
+      "cdEmpresa": 2,
+      "dsEmpresa": "EMPRESA 2",
+      "idEmpresa": 2
+    }
+  ],
+  "start": 0,
+  "count": 2
+}

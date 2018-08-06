@@ -1,0 +1,15 @@
+{
+  "medidas": {
+    "largura": 0,
+    "comprimento": 0,
+    "altura": 0,
+    "volume": 0,
+    "diametro": 0
+  },
+  "tipoEmabalagem": {
+    "dsTipoEmbalagem": "PLÁSTICO",
+    "cdTipoEmbalagem": 3
+  },
+  "dsEmabalagem": "BLISTER",
+  "cdEmbalagem": 4
+}

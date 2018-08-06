@@ -1,0 +1,40 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "mainAddress": {
+        "country": "BRASIL",
+        "street": "RUA ANTONIO LUZ DIAS",
+        "complement": "",
+        "adressecommerce": "RUA ANTONIO LUZ DIAS, 0 - CAMBARÁ, PARANÁ",
+        "zipCode": "86390000",
+        "stateInscription": "",
+        "number": "0",
+        "state": "PR",
+        "city": "CAMBARÁ"
+      },
+      "gender": "O",
+      "bo_colaborador": "N",
+      "bo_parceiro": "N",
+      "fantasy": "TESTE CADASTRO POSTMAN",
+      "bo_representante": "",
+      "mainPhone": {
+        "ddi": "55",
+        "ddd": "43",
+        "phoneNumber": "35323673",
+        "phoneType": "COMERCIAL"
+      },
+      "bo_cliente": "S",
+      "office": "",
+      "id": 16638,
+      "corporateName": "TESTE CADASTRO POSTMAN",
+      "email": "email@db1.com.br",
+      "code": 16638,
+      "cpfCnpj": "82411382000100",
+      "codeOffice": 0,
+      "bo_fornecedor": "N"
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

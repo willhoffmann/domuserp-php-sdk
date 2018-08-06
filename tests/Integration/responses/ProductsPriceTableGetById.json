@@ -1,0 +1,16 @@
+{
+  "gramatura": "",
+  "orderAdditionalInformation": "",
+  "description": "FILTRO DE PAPEL MELITTA 103 30 UND",
+  "defaultValue": 0,
+  "un": "CX",
+  "id": 637,
+  "availableStock": 3522,
+  "barCode": "0",
+  "code": 160,
+  "brand": {
+    "description": "MELLITA",
+    "id": 91,
+    "code": 91
+  }
+}

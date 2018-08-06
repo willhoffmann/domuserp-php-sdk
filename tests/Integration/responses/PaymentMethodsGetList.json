@@ -1,0 +1,27 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "description": "BONIFICACAO",
+      "id": 9,
+      "allowsNegotiation": false
+    },
+    {
+      "description": "BOLETO DE FORNECEDORES",
+      "id": 10,
+      "allowsNegotiation": false
+    },
+    {
+      "description": "ANTECIPACAO FORNECEDORES",
+      "id": 11,
+      "allowsNegotiation": false
+    },
+    {
+      "description": "DEPOSITO FORNECEDOR",
+      "id": 16,
+      "allowsNegotiation": false
+    }
+  ],
+  "start": 0,
+  "count": 4
+}

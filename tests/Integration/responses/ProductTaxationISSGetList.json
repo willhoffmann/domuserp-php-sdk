@@ -1,0 +1,11 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "cdProdutoISS": 3,
+      "dsProdutoISS": "NÃO É SERVIÇO"
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

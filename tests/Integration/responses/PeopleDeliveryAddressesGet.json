@@ -1,0 +1,41 @@
+{
+  "pageSize": 0,
+  "values": [
+    {
+      "charge": true,
+      "country": {
+        "description": "BRASIL",
+        "id": 1058
+      },
+      "delivery": true,
+      "street": "RUA ANTONIO LUZ DIAS",
+      "complement": "",
+      "district": "",
+      "adressecommerce": "RUA ANTONIO LUZ DIAS, 0 - CAMBARÁ, PARANÁ",
+      "billing": true,
+      "id": 1,
+      "zipCode": "86390000",
+      "stateInscription": "",
+      "commercialSector": {
+        "description": "",
+        "id": "",
+        "code": ""
+      },
+      "number": "0",
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "main": true,
+      "mail": true,
+      "city": {
+        "description": "CAMBARÁ",
+        "id": 4103602
+      },
+      "poBox": "142"
+    }
+  ],
+  "start": 0,
+  "count": 1
+}

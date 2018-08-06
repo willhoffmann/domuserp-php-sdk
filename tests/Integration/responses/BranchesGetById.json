@@ -1,0 +1,29 @@
+{
+  "inscEstadual": "123456789",
+  "cidade": "MARINGÁ",
+  "dsFilial": "FILIAL 1",
+  "inscMunicipal": "ISENTO",
+  "idFilial": 1,
+  "telefones": [
+    {
+      "ddi": "55",
+      "ddd": "44",
+      "fone": "32124589"
+    }
+  ],
+  "empresa": {
+    "cdEmpresa": 1,
+    "logoUrl": "/empresa/1/logo",
+    "dsEmpresa": "EMPRESA 1",
+    "idEmpresa": 1
+  },
+  "obsPedidoCompra": "",
+  "boSimples": false,
+  "cdFilial": 1,
+  "boMatriz": false,
+  "uf": "PR",
+  "token": "EMPRESA01FILIAL01",
+  "cnpj": "11122233366622",
+  "obsPedidoVenda": "",
+  "boCentroDistribuicao": false
+}

@@ -1,0 +1,47 @@
+{
+  "pageSize": 10,
+  "values": [
+    {
+      "dsNcm": "MULTIMETROS SEM DISPOSITIVO REGISTRADOR",
+      "cdNcm": "90303100"
+    },
+    {
+      "dsNcm": "REGULADORES ELETRONICOS,DE VOLTAGEM,AUTOMATICOS",
+      "cdNcm": "90328911"
+    },
+    {
+      "dsNcm": "EQUIPAMENTO DE ALIMENT.ININTERRUPTA DE ENERGIA ELETR.",
+      "cdNcm": "85044040"
+    },
+    {
+      "dsNcm": "BARRAS, PERFIS E FIOS",
+      "cdNcm": "78060010"
+    },
+    {
+      "dsNcm": "OUTROS OBRAS DE MADEIRA",
+      "cdNcm": "44219000"
+    },
+    {
+      "dsNcm": "OUTS.APARS.ELETR.DE SINALIZ.VISUAL P/AUTOMOVEIS,ETC.",
+      "cdNcm": "85122029"
+    },
+    {
+      "dsNcm": "OLEOS LUBRIFICANTES COM ADITIVO",
+      "cdNcm": "27101932"
+    },
+    {
+      "dsNcm": "OUTROS",
+      "cdNcm": "90303329"
+    },
+    {
+      "dsNcm": "CONVERSORES ELETRICOS DE CORRENTE CONTINUA",
+      "cdNcm": "85044030"
+    },
+    {
+      "dsNcm": "OUTS.PAPEIS DE CAMADA MULTIPLA,REVEST.CAULIM,ROLOS/FLS",
+      "cdNcm": "48109290"
+    }
+  ],
+  "start": 0,
+  "count": 436
+}

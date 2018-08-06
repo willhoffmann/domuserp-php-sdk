@@ -1,0 +1,44 @@
+{
+  "ds_regiaocomercial": "RODRIGO RODRIGUES REPRESENTAÇÕES BRASIL - ME",
+  "razao_social": "RODRIGO RODRIGUES",
+  "listarepresentantes": [
+    {
+      "pc_saldo_conta": 0,
+      "pc_comissao": 0,
+      "razao_social": "MAURICIO PARPINELLI",
+      "cd_colaborador": 26
+    }
+  ],
+  "cd_regiaocomercial": 3,
+  "cd_setorsomercial": "3",
+  "inf_compl": "",
+  "bo_setor_empresa": "N",
+  "listacidades": [
+    {
+      "cidade": "TAPEROÁ",
+      "cd_uf": "BA"
+    },
+    {
+      "cidade": "TAPIRAMUTÁ",
+      "cd_uf": "BA"
+    },
+    {
+      "cidade": "TEIXEIRA DE FREITAS",
+      "cd_uf": "BA"
+    },
+    {
+      "cidade": "TEODORO SAMPAIO",
+      "cd_uf": "BA"
+    },
+    {
+      "cidade": "TEOFILÂNDIA",
+      "cd_uf": "BA"
+    },
+    {
+      "cidade": "TEOLÂNDIA",
+      "cd_uf": "BA"
+    }
+  ],
+  "cd_colaborador": 7503,
+  "ds_setorcomercial": "FABIANE MATRIZ"
+}

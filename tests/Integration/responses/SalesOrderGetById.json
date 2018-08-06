@@ -1,0 +1,319 @@
+{
+  "freightValue": "0",
+  "originType": "D",
+  "trackingCode": "ABCD123456789",
+  "serviceCode": {
+    "code": 40215,
+    "description": "E-Sedex"
+  },
+  "freightType": "0",
+  "productFolder": {
+    "description": "GERAL",
+    "id": 1,
+    "code": 1
+  },
+  "marketPlace": "",
+  "dtOrder": "2017-01-26",
+  "person": {
+    "id": 1,
+    "corporateName": "EXEMPLO LTDA",
+    "code": 1,
+    "cpfCnpj": "00000000000000"
+  },
+  "vlDiscount": 0.12,
+  "salesman": {
+    "id": 4338,
+    "name": "ANA PAULA SCARPARO DE RESENDE"
+  },
+  "status": "Confirmado",
+  "paymentCondition": {
+    "description": "21/28/35 DIAS",
+    "id": 71
+  },
+  "invoiceInformation": "",
+  "estimated_delivery_date": "2017-08-08 20:00:00",
+  "delivery_date_performed": "2017-08-10 23:00:00",
+  "items": [
+    {
+      "vlTotalProduct": 383.67,
+      "vlUnitGross": 3.8367,
+      "vlDiscount": 0.12,
+      "product": {
+        "gramatura": "",
+        "orderAdditionalInformation": "",
+        "descriptionUnit": "",
+        "description": "PRODUTO EXEMPLO 1",
+        "defaultValue": 0,
+        "un": "FRD",
+        "id": 15,
+        "barCode": "",
+        "code": 2,
+        "brand": {
+          "description": "",
+          "id": 0,
+          "code": 0
+        }
+      },
+      "saleUnit": "CX",
+      "saleUnitAmount": 4,
+      "saleUnitFactorConversion": 25,
+      "pcDiscount": 0.03,
+      "amount": 100,
+      "vlIpi": 0,
+      "id": 15,
+      "totalValue": 383.55,
+      "vlSt": 0,
+      "code": 2,
+      "vlUnit": 3.8355,
+      "products": [
+        {
+          "gramatura": "",
+          "orderAdditionalInformation": "",
+          "descriptionUnit": "",
+          "description": "PRODUTO EXEMPLO 1",
+          "defaultValue": 0,
+          "un": "FRD",
+          "id": 15,
+          "barCode": "",
+          "code": 2,
+          "brand": {
+            "description": "",
+            "id": 0,
+            "code": 0
+          }
+        }
+      ]
+    },
+    {
+      "vlTotalProduct": 115.2,
+      "vlUnitGross": 9.6002,
+      "vlDiscount": 0,
+      "product": {
+        "gramatura": "",
+        "orderAdditionalInformation": "",
+        "descriptionUnit": "",
+        "description": "PRODUTO EXEMPLO 2",
+        "defaultValue": 0,
+        "un": "UN",
+        "id": 2,
+        "barCode": "",
+        "code": 1,
+        "brand": {
+          "description": "",
+          "id": 0,
+          "code": 0
+        }
+      },
+      "pcDiscount": 0,
+      "amount": 12,
+      "vlIpi": 0,
+      "id": 2,
+      "totalValue": 115.2,
+      "vlSt": 0,
+      "code": 1,
+      "vlUnit": 9.6002,
+      "products": [
+        {
+          "gramatura": "",
+          "orderAdditionalInformation": "",
+          "descriptionUnit": "",
+          "description": "PRODUTO EXEMPLO 2",
+          "defaultValue": 0,
+          "un": "UN",
+          "id": 2,
+          "barCode": "",
+          "code": 1,
+          "brand": {
+            "description": "",
+            "id": 0,
+            "code": 0
+          }
+        }
+      ]
+    },
+    {
+      "vlTotalProduct": 136.41,
+      "vlUnitGross": 5.6837,
+      "vlDiscount": 0,
+      "product": {
+        "gramatura": "",
+        "orderAdditionalInformation": "",
+        "descriptionUnit": "",
+        "description": "PRODUTO EXEMPLO 3",
+        "defaultValue": 0,
+        "un": "CX",
+        "id": 738,
+        "barCode": "",
+        "code": 578,
+        "brand": {
+          "description": "",
+          "id": 0,
+          "code": 0
+        }
+      },
+      "pcDiscount": 0,
+      "amount": 24,
+      "vlIpi": 0,
+      "id": 738,
+      "totalValue": 144.81,
+      "vlSt": 8.4,
+      "code": 578,
+      "vlUnit": 5.6837,
+      "products": [
+        {
+          "gramatura": "",
+          "orderAdditionalInformation": "",
+          "descriptionUnit": "",
+          "description": "PRODUTO EXEMPLO 3",
+          "defaultValue": 0,
+          "un": "CX",
+          "id": 738,
+          "barCode": "",
+          "code": 578,
+          "brand": {
+            "description": "",
+            "id": 0,
+            "code": 0
+          }
+        }
+      ]
+    }
+  ],
+  "vlProducts": 635.28,
+  "billingForecast": "2017-01-26",
+  "deliveryAddress": {
+    "charge": true,
+    "country": {
+      "description": "BRASIL",
+      "id": 1058
+    },
+    "delivery": true,
+    "street": "AVENIDA BRASIL",
+    "complement": "",
+    "billing": true,
+    "id": 1,
+    "zipCode": "00000000",
+    "number": "0",
+    "state": {
+      "description": "PARANÁ",
+      "id": 41,
+      "symbol": "PR"
+    },
+    "main": true,
+    "mail": true,
+    "city": {
+      "description": "MARINGÁ",
+      "id": 4103602,
+      "state": {
+        "description": "PARANÁ",
+        "id": 41,
+        "symbol": "PR"
+      },
+      "chave": 0
+    },
+    "poBox": "142"
+  },
+  "ecommerceId": "",
+  "deliveryType": "C",
+  "expirationType": "B",
+  "bloqueiaCancelamentoPV": false,
+  "vlIpi": 0,
+  "paymentMethod": {
+    "description": "BOLETO BRADESCO",
+    "id": 3,
+    "allowsNegotiation": false
+  },
+  "id": 497684,
+  "control": "227157",
+  "totalValue": 643.56,
+  "additionalInformation": "",
+  "vlSt": 8.4,
+  "currency": {
+    "description": "REAL",
+    "id": "1",
+    "symbol": "R$"
+  },
+  "priceTable": {
+    "paymentMethods": [],
+    "description": "D-R",
+    "id": 2,
+    "code": 2
+  },
+  "operation": {
+    "description": "PEDIDO DE VENDA DE MERCADORIA",
+    "id": 210,
+    "code": 210
+  },
+  "invoiceSummary": {
+    "accessKey": "",
+    "issueDate": "2017-01-26",
+    "id": 670828,
+    "number": 500069,
+    "serie": "1"
+  },
+  "restrictions": [
+    {
+      "restrictionDate": "2017-01-26",
+      "status": "Aprovado",
+      "description": "LIMITE DE CRÉDITO"
+    },
+    {
+      "restrictionDate": "2017-01-26",
+      "status": "Aprovado",
+      "description": "INADIMPLENCIA"
+    },
+    {
+      "restrictionDate": "2017-01-26",
+      "status": "Aprovado",
+      "description": "CLASSIFICAÇÃO DE CRÉDITO"
+    }
+  ],
+  "carrierId": "",
+  "plots": [
+    {
+      "nPlot": 1,
+      "dueDate": "2017-02-17",
+      "cardDocNumber": "",
+      "paymentMethod": {
+        "description": "BOLETO BRADESCO",
+        "id": 3,
+        "allowsNegotiation": false
+      },
+      "machineNumber": "",
+      "ourNumber": "",
+      "plotPayments": [],
+      "lastCardDigits": "",
+      "plotValue": 214.52
+    },
+    {
+      "nPlot": 2,
+      "dueDate": "2017-02-24",
+      "cardDocNumber": "",
+      "paymentMethod": {
+        "description": "BOLETO BRADESCO",
+        "id": 3,
+        "allowsNegotiation": false
+      },
+      "machineNumber": "",
+      "ourNumber": "",
+      "plotPayments": [],
+      "lastCardDigits": "",
+      "plotValue": 214.52
+    },
+    {
+      "nPlot": 3,
+      "dueDate": "2017-03-03",
+      "cardDocNumber": "",
+      "paymentMethod": {
+        "description": "BOLETO BRADESCO",
+        "id": 3,
+        "allowsNegotiation": false
+      },
+      "machineNumber": "",
+      "ourNumber": "",
+      "plotPayments": [],
+      "lastCardDigits": "",
+      "plotValue": 214.52
+    }
+  ]
+}
