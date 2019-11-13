@@ -1,9 +1,9 @@
 {
     "name": "willhoffmann/domuserp-php",
-    "description": "PHP Library for Domus ERP API",
+    "description": "PHP SDK for Domus ERP API",
     "type": "library",
     "license": "MIT",
-    "keywords": ["domus erp", "api", "client"],
+    "keywords": ["domus erp", "api", "client", "sdk", "domus sdk", "domus"],
     "authors": [
       {
         "name": "William Hoffmann",
