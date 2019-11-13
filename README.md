@@ -1,10 +1,10 @@
-# Domus ERP for PHP
+# domuserp-php-sdk
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/willhoffmann/domuserp-php/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/willhoffmann/domuserp-php.svg?branch=master)](https://travis-ci.org/willhoffmann/domuserp-php)
 [![Downloads](https://img.shields.io/packagist/dt/willhoffmann/domuserp-php.svg?style=flat-square)](https://packagist.org/packages/willhoffmann/domuserp-php)
 
-A PHP Library for Domus ERP API
+PHP SDK Library for Domus ERP API
  
 The purpose of this lib is to create an abstracted layer to facilitate the use of API in PHP projects.
 
